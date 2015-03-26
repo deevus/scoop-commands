@@ -3,6 +3,6 @@
     "license":  "Unlicense",
     "url":  "https://raw.githubusercontent.com/deevus/scoop-commands/master/commands/scoop-hello.ps1",
     "homepage":  "https://github.com/deevus/scoop-commands",
-    "hash":  "sha1:f53bd36cbcb4f3b3315df0df53aef1e18399ab87",
+    "hash":  "sha1:90b6a96b6b96b2465080db40910960a8faa7627c",
     "bin":  "scoop-hello.ps1"
 }
