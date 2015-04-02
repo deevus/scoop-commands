@@ -21,5 +21,3 @@ function local:get_scoopdir {
   $scoopappdir
 }
 $env:SCOOP_HOME = get_scoopdir
-
-. "$env:SCOOP_HOME\lib\core.ps1"
