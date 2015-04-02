@@ -1,0 +1,9 @@
+﻿{
+    "version":  "latest",
+    "license":  "https://raw.githubusercontent.com/deevus/scoop-commands/master/LICENSE",
+    "url":  "https://raw.githubusercontent.com/deevus/scoop-commands/master/commands/scoop-plist.ps1",
+    "depends":  "scoop-shellinit",
+    "homepage":  "https://github.com/deevus/scoop-commands",
+    "hash":  "b965036682267337080abc36a74cd1ff880bf7bd81f068987e098870eefd6690",
+    "bin":  "scoop-plist.ps1"
+}
