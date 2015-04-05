@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "latest",
+    "version":  "20150405",
     "license":  "https://raw.githubusercontent.com/deevus/scoop-commands/master/LICENSE",
-    "url":  "https://raw.githubusercontent.com/deevus/scoop-commands/master/commands/scoop-plist.ps1",
+    "url":  "https://gist.githubusercontent.com/deevus/b99755c6b0ef794bfafa/raw/22ea87eb81c0cd08aedaaacbab6756d5a0d649d9/scoop-plist.ps1",
     "depends":  "scoop-shellinit",
     "homepage":  "https://github.com/deevus/scoop-commands",
-    "hash":  "b965036682267337080abc36a74cd1ff880bf7bd81f068987e098870eefd6690",
+    "hash":  "3424c0523376706d15b793cfcb0a5ee60dab495d0d38a0cfe597e8258cc03ab3",
     "bin":  "scoop-plist.ps1"
 }
